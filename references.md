@@ -1,3 +1,3 @@
-# References
+# Conflicting References
 
-* octocat 1 😈
+Octodog 2 🐶
